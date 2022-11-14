@@ -18,7 +18,7 @@ For building and running the application you need:
 
 On the command line, run:
 ```shell
-git clone https://github.com/jaydxn1/Bobs-Marketplace.git
+git clone https://github.com/nic-coleljy/BobsMarketplace-Backend.git
 ```
 Any further references to the command line will be from within the cloned application's base directory.
 
@@ -37,7 +37,7 @@ By default, the application will run on port 8080. Feel free to change the port,
 
 You can access the necessary APIs through [http://localhost:8080](http://localhost:8080) by appending the specific endpoints to the URL. More on the endpoints below.
 
->_Please ensure that this application is up and running first before launching the [frontend](https://github.com/Pyrolf/bobs_marketplace_frontend)._
+>_Please ensure that this application is up and running first before launching the [frontend](https://github.com/nic-coleljy/BobsMarketplace-Frontend.git)._
 
 ## Database
 The application is currently connected to an instance of Amazon's Relational Database Service for MySQL, already populated with preexisting data for ease of viewing on the frontend. 
