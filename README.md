@@ -46,3 +46,12 @@ Should you wish to switch to using your own local/cloud database services, the M
 
 ## API information
 The information on the different endpoints and functions can be viewed in [more detail here](https://documenter.getpostman.com/view/17665160/UVyswaj1).
+
+<br>
+<b> Credits: </b><br>
+1. Pang Jun Rong <br>
+2. Ashley Loh Tsun Ning <br>
+3. Nicole Lim Jia Yi<br>
+4. Gregory Koh Wen Cong <br>
+5. GOVINDASAMY RAJASEKAR KAUSHIK YADHUNATH <br>
+6. CHEONG Wei Soon <br>
